@@ -1,0 +1,10 @@
+{
+    "Alignment" : "Bowtie2",
+    "Variant Calling" : "Heptagon",
+    "Filtering" : "metaseqR",
+    "Annotation" : "dbSNP",
+    "Enrichment" : "DAVID", 
+    "Cluster" : "NCSS",
+    "Data Visualization and Processing" : "Gwyddion",
+    "Metagenomic Analysis" : "Kraken2"
+}
